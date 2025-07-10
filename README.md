@@ -11,16 +11,12 @@
 
 ## Task 2: SonarQube and Ansible Server Setup
 
-### SonarQube  
-- IP: 34.143.201.126  
+### SonarQube   
 - Domain: sonarqube.sivthingthing.xyz  
-- Port: 3005  
 - Access: https://sonarqube.sivthingthing.xyz
 
-### Ansible  
-- IP: 34.142.228.212  
+### Ansible   
 - Domain: ansible.sivthingthing.xyz  
-- Port: 5000  
 - Access: https://ansible.sivthingthing.xyz
 
 ---
